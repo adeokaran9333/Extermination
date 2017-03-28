@@ -10,3 +10,4 @@
 <img src="https://github.com/adeokaran9333/Extermination/blob/master/Video%20Game%20Pictures/Extermination%20GamePIC.png" width="200px">
 
 <h3>Resources</h3>
+<s href="https://www.python.org/downloads/"> Python Download</a>
