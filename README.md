@@ -8,6 +8,8 @@
 
 <h3>Screenshots</h3>
 <img src="https://github.com/adeokaran9333/Extermination/blob/master/Video%20Game%20Pictures/Extermination%20GamePIC.png" width="200px">
+<img src="https://github.com/adeokaran9333/Extermination/blob/master/Video%20Game%20Pictures/Extermination%20Title%20Screen.png" width="200px">
+<img src="https://github.com/adeokaran9333/Extermination/blob/master/Video%20Game%20Pictures/Extermination%20Gameover%20Screen.png" width="200px">
 
 <h3>Resources</h3>
 <a href="https://www.python.org/downloads/"> Python Download</a>
