@@ -12,8 +12,6 @@
 <img src="https://github.com/adeokaran9333/Extermination/blob/master/Video%20Game%20Pictures/Extermination%20Gameover%20Screen.png" width="200px">
 
 <h3>Resources</h3>
-<a href="https://www.python.org/downloads/"> Python Download</a>
-
-<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> PyGame Wheel File</a>
-
-<a href="https://youtu.be/_GikMdhAhv0"> Installing Python 3.6 and PyGame</a>
+<a href="https://www.python.org/downloads/"> Python Download</a> <br>
+<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> PyGame Wheel File</a> <br>
+<a href="https://youtu.be/_GikMdhAhv0"> Installing Python 3.6 and PyGame</a> 
